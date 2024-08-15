@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shai Shab</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh.</h3>
+<p>I'm a junior MERN Stack developer with a strong focus on front-end technologies like React and Tailwind CSS. I enjoy building dynamic web applications and have experience integrating Firebase for backend services. I'm also exploring MongoDB and Express to enhance my full-stack development skills.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaishabcoding&label=Profile%20views&color=0e75b6&style=flat" alt="shaishabcoding" /> </p>
 
