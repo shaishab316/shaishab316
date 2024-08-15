@@ -1,17 +1,18 @@
 <h1 align="center">Hi 👋, I'm Shai Shab</h1>
 <p>I'm a junior MERN Stack developer with a strong focus on front-end technologies like React and Tailwind CSS. I enjoy building dynamic web applications and have experience integrating Firebase for backend services. I'm also exploring MongoDB and Express to enhance my full-stack development skills.</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shaishabcoding&label=Profile%20views&color=0e75b6&style=flat" alt="shaishabcoding" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shaishabcoding" alt="shaishabcoding" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 🌱 I’m currently learning **React.js, Next.js**
 
 - 💬 Ask me about **React.js**
 
 - 📫 How to reach me **shaishabchandrashil@gmail.com**
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shaishabcoding&label=Profile%20views&color=0e75b6&style=flat" alt="shaishabcoding" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shaishabcoding" alt="shaishabcoding" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
