@@ -59,8 +59,8 @@ I'm a passionate Full Stack Developer with expertise in the MERN stack (MongoDB,
 
 ## 📊 GitHub Stats
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=shaishabcoding&layout=compact&theme=radical)](https://github.com/shaishabcoding)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=shaishab316&layout=compact&theme=radical)](https://github.com/shaishab316)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shaishabcoding&show_icons=true&theme=radical)](https://github.com/shaishabcoding)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shaishab316&show_icons=true&theme=radical)](https://github.com/shaishab316)
 
-[![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=shaishabcoding&theme=radical)](https://github.com/shaishabcoding)
+[![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=shaishab316&theme=radical)](https://github.com/shaishab316)
