@@ -4,7 +4,7 @@
 
 ### Full Stack Developer | MERN Stack Specialist | Problem Solver
 
-I'm a passionate Full Stack Developer with expertise in the MERN stack (MongoDB, Express.js, React.js, Node.js). I specialize in building scalable web applications with clean architecture and optimal performance. My focus extends to both frontend excellence and robust backend solutions.
+I'm a passionate Full Stack Developer with expertise in the MERN stack (Prisma, MongoDB, Express.js, React.js, Node.js). I specialize in building scalable web applications with clean architecture and optimal performance. My focus extends to both frontend excellence and robust backend solutions.
 
 ## 🔧 Technical Skills
 <h4>Frontend</h4>
@@ -45,7 +45,7 @@ I'm a passionate Full Stack Developer with expertise in the MERN stack (MongoDB,
 
 ### Problem Solving
 - Data Structures & Algorithms
-- LeetCode: [shaishab316](https://leetcode.com/u/shaishab316/)
+- LeetCode: [shaishab316](https://leetcode.com/u/shaishab316)
 
 ## 🚀 Current Focus
 - Enhancing my expertise in microservices architecture
