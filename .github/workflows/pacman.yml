@@ -9,7 +9,7 @@ on:
       - main
 
 jobs:
-  generate:
+  pacman:
     permissions:
       contents: write
     runs-on: ubuntu-latest
@@ -19,8 +19,9 @@ jobs:
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
+          output_dir: dist/pacman
 
-      - name: Publish output
+      - name: Publish pacman output
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
