@@ -21,13 +21,14 @@ jobs:
         with:
           github_user_name: shaishab316
           outputs: |
-            dist/snake/snake.svg
-            dist/snake/snake-dark.svg?palette=github-dark
+            dist/snake.svg
+            dist/snake-dark.svg?palette=github-dark
 
-      - name: Publish snake output
+      - name: Publish snake to snake-output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
-          target_branch: output
+          target_branch: snake-output   
           build_dir: dist
+          keep_history: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
