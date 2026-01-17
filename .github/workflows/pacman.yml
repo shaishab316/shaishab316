@@ -1,0 +1,28 @@
+name: Generate Pacman Game
+
+on:
+  schedule:
+    - cron: "0 0 * * *"     # runs every day
+  workflow_dispatch:        # you can trigger manually too
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write      # needed to push the output
+
+    steps:
+      # Generate the animation SVG
+      - name: Build pacman from contributions
+        uses: abozanona/generate-pacman-game-from-github-contribution-grid@latest
+        with:
+          github_user_name: ${{ github.repository_owner }}
+
+      # Publish to a branch so it can be hosted
+      - name: Publish to output branch
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
