@@ -278,7 +278,15 @@ Building:
 
 ### 🌟 _"Full Stack: Where beautiful interfaces meet bulletproof architecture."_
 
-![Snake animation](https://raw.githubusercontent.com/shaishab316/shaishab316/output/snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" 
+    srcset="https://raw.githubusercontent.com/shaishab316/shaishab316/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" 
+    srcset="https://raw.githubusercontent.com/shaishab316/shaishab316/pacman-output/pacman-contribution-graph.svg">
+  <img alt="Pacman contribution graph"
+    src="https://raw.githubusercontent.com/shaishab316/shaishab316/pacman-output/pacman-contribution-graph.svg">
+</picture>
+
 
 **⭐ From [shaishab316](https://github.com/shaishab316)**
 
