@@ -2,276 +2,109 @@
 <img width="1584" height="396" alt="White Minimalist Marketing Manager LinkedIn Banner (4)" src="https://github.com/user-attachments/assets/ec6986a9-2dca-4421-8a8b-1f90390ea5c7" />
 
 <img src="https://komarev.com/ghpvc/?username=shaishabcoding&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" /> 
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaishabchandrashil@gmail.com)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/shaishabking)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/shaishab316)
-
 </div>
+
+<div align="center">
+  <a href="mailto:shaishabchandrashil@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-shaishabchandrashil-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/shaishab316">
+    <img src="https://img.shields.io/badge/LinkedIn-shaishab316-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/shaishab316">
+    <img src="https://img.shields.io/badge/LeetCode-250%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+</div>
+
+<br/>
 
 ---
 
-## 🎯 What I Do
+### 👨‍💻 About Me
 
-```typescript
-const shaiShab = {
-	role: 'Full Stack Engineer',
-	specialization: 'Backend & System Design',
-	expertise: {
-		backend: [
-			'Node.js',
-			'Express.js',
-			'RESTful APIs',
-			'GraphQL',
-			'Microservices',
-		],
-		frontend: [
-			'React.js',
-			'Next.js',
-			'TypeScript',
-			'Redux',
-			'Zustand',
-			'Tailwind CSS',
-		],
-		databases: ['MongoDB', 'PostgreSQL', 'Redis', 'Prisma', 'Mongoose'],
-		architecture: [
-			'Microservices',
-			'Event-Driven Design',
-			'API Gateway',
-			'System Design',
-		],
-		devops: ['Docker', 'AWS', 'CI/CD', 'Linux', 'GitHub Actions'],
-		realtime: ['Socket.IO', 'WebSockets'],
-	},
-	fullStackMindset: 'Build stunning UIs + Architect rock-solid backends',
-	currentlyMastering: [
-		'Advanced System Design',
-		'AWS Infrastructure',
-		'Performance Optimization',
-	],
-	dailyPractice: 'LeetCode Problem Solving',
+```ts
+const shaishab = {
+  role: "Backend Developer @ Join Venture AI",
+  stack: ["Node.js", "TypeScript", "Express", "PostgreSQL", "Redis", "Docker"],
+  databases: ["PostgreSQL", "MongoDB", "Redis"],
+  payments: ["Stripe", "PayPal", "Azul 3DS2"],
+  realtime: ["Socket.IO", "WebSockets"],
+  devops: ["Docker", "AWS S3", "GitHub Actions", "VPS", "CI/CD"],
+  leetcode: "250+ problems solved",
+  principles: ["OOP", "SOLID", "Clean Architecture", "REST"],
+  location: "Dhaka, Bangladesh",
+  openTo: "Backend roles · Remote opportunities",
 };
 ```
 
 ---
 
-## 🛠️ Tech Arsenal
-
-### 🎨 **Frontend Development**
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,redux,tailwind,html,css" />
-  </a>
-</p>
+### 🛠 Tech Stack
 
 <div align="center">
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+**Core**
 
-</div>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
-**🔥 Frontend Expertise:**
+**Databases & ORM**
 
-- ⚛️ React.js & Next.js for building modern, performant SPAs & SSR apps
-- 📘 TypeScript for type-safe, maintainable code
-- 🎨 Tailwind CSS for rapid, responsive UI development
-- 🔄 State Management with Redux & Zustand
-- 🚀 Optimized performance & Core Web Vitals
-- 📱 Responsive design & Mobile-first approach
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat-square&logoColor=white)
 
----
+**Real-time & Auth**
 
-### ⚙️ **Backend & Databases**
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![BullMQ](https://img.shields.io/badge/BullMQ-FF6B6B?style=flat-square&logoColor=white)
+![Winston](https://img.shields.io/badge/Winston-231F20?style=flat-square&logoColor=white)
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,redis,prisma,firebase" />
-  </a>
-</p>
+**DevOps & Cloud**
 
-<div align="center">
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS_S3-FF9900?style=flat-square&logo=amazons3&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![VPS](https://img.shields.io/badge/VPS_Hosting-0A0A0A?style=flat-square&logo=linux&logoColor=white)
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+**Frontend (Familiar)**
 
-</div>
-
-**🚀 Backend Mastery:**
-
-- 💪 Node.js & Express.js for building robust REST & GraphQL APIs
-- 🗄️ Database design & optimization (MongoDB, PostgreSQL)
-- ⚡ Redis caching for lightning-fast performance
-- 🔐 Authentication & Authorization (JWT, OAuth, Sessions)
-- 🔌 Real-time features with Socket.IO & WebSockets
-- 🏗️ Microservices architecture & distributed systems
-
----
-
-### 🚀 **DevOps & Cloud Infrastructure**
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github,githubactions,postman,vscode" />
-  </a>
-</p>
-
-<div align="center">
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 </div>
 
 ---
 
-## 💼 Core Competencies
-
-<table>
-  <tr>
-    <td align="center" width="50%">
-      
-### 🎨 Frontend Excellence
-- ⚛️ React.js & Next.js Expert
-- 📘 TypeScript for Type Safety
-- 🎨 State Management (Redux, Zustand)
-- 📱 Responsive & Accessible UI/UX
-- ⚡ Performance Optimization
-- 🎯 Modern CSS (Tailwind, CSS-in-JS)
-- 🔍 SEO & Core Web Vitals
-
-</td>
-    <td align="center" width="50%">
-      
-### 🔧 Backend Development
-- 💚 Node.js & Express.js Mastery
-- 🔌 RESTful & GraphQL API Design
-- 🗄️ Database Optimization
-- 🔐 Authentication & Authorization
-- ⚡ Real-time Applications (Socket.IO)
-- 🛡️ API Gateway & Rate Limiting
-- 📊 Error Handling & Logging
-
-</td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      
-### 🏗️ System Design & Architecture
-- 🏛️ Microservices Architecture
-- 📐 Database Schema Design
-- ⚡ Caching Strategies (Redis)
-- 📬 Message Queues & Event-Driven Systems
-- ⚖️ Load Balancing & Scaling
-- 🔄 High Availability & Fault Tolerance
-
-</td>
-    <td align="center" width="50%">
-      
-### 🧩 Problem Solving & More
-- 📊 Data Structures & Algorithms
-- 🧠 LeetCode Problem Solver
-- 💡 System Design Interviews
-- ⚡ Code Optimization
-- 🐳 Docker & AWS DevOps
-- 🔄 CI/CD Pipelines
-
-</td>
-  </tr>
-</table>
-
----
-
-## 📊 GitHub Statistics
+### 📊 GitHub Stats
 
 <div align="center">
-  
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=shaishab316&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=C9D1D9&count_private=true" alt="GitHub Stats" />
-  
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=shaishab316&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=C9D1D9" alt="GitHub Streak" />
-  
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=shaishab316&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
-  
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=shaishab316&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=F85D7F&line=F8D866&point=C9D1D9" alt="Contribution Graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shaishab316&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaishab316&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="36%" />
+</div>
 
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=shaishab316&theme=tokyonight&hide_border=true" width="55%" />
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+### 🧠 LeetCode
 
 <div align="center">
-  
-  [![trophy](https://github-profile-trophy.vercel.app/?username=shaishab316&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
+  <img src="https://leetcard.jacoblin.cool/shaishab316?theme=dark&font=Nunito&ext=heatmap&border=0" width="60%" />
 </div>
-
----
-
-## 🎯 LeetCode Journey
-
-<div align="center">
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/shaishab316?theme=dark&font=Noto%20Sans&ext=heatmap)](https://leetcode.com/u/shaishab316)
-
-**💪 Consistent Problem Solver | 🧠 Algorithmic Thinker | 📈 Always Improving**
-
-</div>
-
----
-
-## 🔥 Current Focus
-
-```yaml
-Learning:
-  - Advanced Microservices Patterns
-  - AWS Cloud Architecture (Solutions Architect)
-  - System Design at Scale
-  - Next.js Advanced Features (Server Components, ISR)
-  - Performance Optimization (Frontend & Backend)
-
-Building:
-  - Full Stack MERN Applications
-  - Scalable REST & GraphQL APIs
-  - Real-time applications with Socket.IO
-  - Microservices with Docker
-  - Modern React apps with TypeScript
-```
-
----
-
-## 📫 Let's Connect & Collaborate
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email_Me-shaishabchandrashil@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaishabchandrashil@gmail.com)
-[![Facebook](https://img.shields.io/badge/Facebook-shaishab316-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/shaishabking)
-[![LeetCode](https://img.shields.io/badge/LeetCode-shaishab316-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/shaishab316)
-
-### 💡 Open to Full Stack Engineering Opportunities & Collaboration!
-
-</div>
-
----
-
-<div align="center">
-
-### 🌟 _"Full Stack: Where beautiful interfaces meet bulletproof architecture."_
 
 <picture>
   <source media="(prefers-color-scheme: dark)" 
@@ -281,8 +114,3 @@ Building:
   <img alt="Pacman contribution graph"
     src="https://raw.githubusercontent.com/shaishab316/shaishab316/pacman-output/pacman-contribution-graph.svg">
 </picture>
-
-
-**⭐ From [shaishab316](https://github.com/shaishab316)**
-
-</div>
