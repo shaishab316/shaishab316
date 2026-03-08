@@ -1,5 +1,5 @@
 <div align="center">
-<img width="1584" height="396" alt="White Minimalist Marketing Manager LinkedIn Banner (4)" src="https://github.com/user-attachments/assets/ec6986a9-2dca-4421-8a8b-1f90390ea5c7" />
+<img width="1584" height="396" alt="Banner" src="https://github.com/user-attachments/assets/328b095c-e587-4a46-9b32-7a9aefcf2d2e" />
 
 <img src="https://komarev.com/ghpvc/?username=shaishabcoding&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" /> 
 </div>
