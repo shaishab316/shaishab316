@@ -1,5 +1,5 @@
 <div align="center">
-<img width="1584" height="396" alt="Banner" src="https://github.com/user-attachments/assets/328b095c-e587-4a46-9b32-7a9aefcf2d2e" />
+<img width="1584" height="396" alt="shaishab316_banner" src="https://github.com/user-attachments/assets/f648aa68-dbf8-47a4-9c10-761afec65bfa" />
 
 <img src="https://komarev.com/ghpvc/?username=shaishabcoding&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" /> 
 </div>
@@ -27,7 +27,7 @@
 ```ts
 const shaishab = {
   role: "Backend Developer @ Join Venture AI",
-  stack: ["Node.js", "TypeScript", "Express", "PostgreSQL", "Redis", "Docker"],
+  stack: ["Node.js", "TypeScript", "NestJS", "Express", "PostgreSQL", "Redis", "Docker"],
   databases: ["PostgreSQL", "MongoDB", "Redis"],
   payments: ["Stripe", "PayPal", "Azul 3DS2"],
   realtime: ["Socket.IO", "WebSockets"],
@@ -48,6 +48,7 @@ const shaishab = {
 **Core**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
