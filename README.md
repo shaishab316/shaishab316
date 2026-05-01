@@ -1,11 +1,12 @@
 <div align="center">
-<img width="1584" height="396" alt="shaishab316_banner" src="https://github.com/user-attachments/assets/f648aa68-dbf8-47a4-9c10-761afec65bfa" />
-
-<img src="https://komarev.com/ghpvc/?username=shaishabcoding&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" /> 
+<img width="1840" height="576" alt="shaishab316_banner" src="https://github.com/user-attachments/assets/54bec120-3a3c-4488-8119-bd51b44640d8" />
 </div>
 
+---
+
 <div align="center">
-  <a href="mailto:shaishabchandrashil@gmail.com">
+<img src="https://komarev.com/ghpvc/?username=shaishabcoding&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" /> 
+ <a href="mailto:shaishabchandrashil@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-shaishabchandrashil-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
