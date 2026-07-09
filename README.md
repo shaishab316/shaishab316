@@ -15,7 +15,7 @@
   </a>
   &nbsp;
   <a href="https://leetcode.com/shaishab316">
-    <img src="https://img.shields.io/badge/LeetCode-250%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+    <img src="https://img.shields.io/badge/LeetCode-350%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 </div>
 
@@ -33,7 +33,7 @@ const shaishab = {
   payments: ["Stripe", "PayPal", "Azul 3DS2"],
   realtime: ["Socket.IO", "WebSockets"],
   devops: ["Docker", "AWS S3", "GitHub Actions", "VPS", "CI/CD"],
-  leetcode: "250+ problems solved",
+  leetcode: "350+ problems solved",
   principles: ["OOP", "SOLID", "Clean Architecture", "REST"],
   location: "Dhaka, Bangladesh",
   openTo: "Backend roles · Remote opportunities",
