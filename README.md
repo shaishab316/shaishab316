@@ -23,43 +23,6 @@
 
 ---
 
-### 👨‍💻 About Me
-
-```ts
-const shaishab = {
-  role: "Full-Stack Developer @ Join Venture AI",
-  location: "Dhaka, Bangladesh",
-  openTo: "Full-Stack roles · Remote opportunities · Freelance",
-  
-  skills: {
-    backend: ["Node.js", "TypeScript", "NestJS", "Express", "GraphQL", "REST APIs", "JWT", "Auth.js"],
-    frontend: ["Next.js", "React", "Redux Toolkit", "Zustand", "TailwindCSS", "Shadcn", "RTK Query"],
-    databases: ["PostgreSQL", "MongoDB", "Redis"],
-    realtime: ["Socket.IO", "WebSockets", "BullMQ"],
-    payments: ["Stripe", "PayPal", "Azul 3DS2"],
-    devops: ["Docker", "AWS S3", "GitHub Actions", "VPS", "CI/CD", "Nginx", "Linux", "Grafana"],
-    principles: ["OOP", "SOLID", "Clean Architecture", "REST", "Microservices"],
-  },
-  
-  achievements: {
-    appsDelivered: "18+ production apps",
-    leetcode: "350+ problems solved",
-  },
-  
-  contact: {
-    email: "shaishab316@gmail.com",
-    linkedin: "https://linkedin.com/in/shaishab316",
-    github: "https://github.com/shaishab316",
-    leetcode: "https://leetcode.com/u/shaishab316",
-  }
-};
-
-// Export for use in other files
-export default shaishab;
-```
-
----
-
 ### 🛠 Tech Stack
 
 <div align="center">
