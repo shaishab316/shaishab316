@@ -15,7 +15,7 @@
   </a>
   &nbsp;
   <a href="https://leetcode.com/shaishab316">
-    <img src="https://img.shields.io/badge/LeetCode-350%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+    <img src="https://img.shields.io/badge/LeetCode-392%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 </div>
 
